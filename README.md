@@ -6,7 +6,10 @@ En las webs suele haber cuenta de Twitter y newsletters para estar al tanto de l
 * [International Joint Conferences on Artificial Intelligence Organization, IJCAI](https://www.ijcai.org/)
 * [International Conference on Machine Learning](https://icml.cc/)
 * [European Conference on AI (ECAI)](https://www.eurai.org/activities/ECAI_conferences)
+* [Machine Learning Summer Schools](http://mlss.cc/)
+
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html) 
+
 
 ## NLP
 * [Widening Natural Language Processing (WiNLP) Workshop](http://www.winlp.org/)
