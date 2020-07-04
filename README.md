@@ -1,6 +1,6 @@
 # Conferencias, Workshops, Eventos y Etc de Interés
 
-En las webs suele haber cuenta de Twitter y newsletters para estar al tanto de las ultimas novedades. Este compendio general [List of Machine Learning and Deep Learning conferences in 2020](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
+En las webs suele haber cuenta de Twitter y newsletters para estar al tanto de las ultimas novedades. Este compendio general [List of Machine Learning and Deep Learning conferences in 2020](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/). Y esta es una [wiki útil para Call for Papers](http://www.wikicfp.com/cfp/home). 
 
 ## AI/Machine Learning
 * [International Joint Conferences on Artificial Intelligence Organization, IJCAI](https://www.ijcai.org/)
@@ -8,7 +8,8 @@ En las webs suele haber cuenta de Twitter y newsletters para estar al tanto de l
 * [European Conference on AI (ECAI)](https://www.eurai.org/activities/ECAI_conferences)
 * [Machine Learning Summer Schools](http://mlss.cc/)
 
-* [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html) 
+* [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
+* [Medical Imaging with Deep Learning (MIDL)](https://2020.midl.io/)
 
 
 ## NLP
