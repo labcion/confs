@@ -7,6 +7,7 @@ En las webs suele haber cuenta de Twitter y newsletters para estar al tanto de l
 * [International Conference on Machine Learning](https://icml.cc/)
 * [European Conference on AI (ECAI)](https://www.eurai.org/activities/ECAI_conferences)
 * [Machine Learning Summer Schools](http://mlss.cc/)
+* [Conference on the Mathematical Theory of Deep Neural Networks - DeepMath](https://deepmath-conference.com/)
 
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
 * [Medical Imaging with Deep Learning (MIDL)](https://2020.midl.io/)
